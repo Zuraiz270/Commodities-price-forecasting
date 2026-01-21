@@ -156,9 +156,7 @@ This modernization effort has transformed the legacy codebase into a state-of-th
 2.  **Deployment**: Dockerize the application for cloud deployment.
 3.  **Real-time Pipeline**: Connect the `NewsFetcher` to a live cron job for continuous learning.
 
-## 📜 License
 
-Open Software License 3.0
 
 ## 🙏 Acknowledgments
 
